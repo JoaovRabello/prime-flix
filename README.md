@@ -2,4 +2,4 @@
 
 Projeto simples desenvolvido com o objetivo de praticar React, rotas, rotas dinâmicas e consumo de API.
 
-Veja o projeto funcionando aqui: [https://prime-flix-xi-wine.vercel.app/]
+Veja o projeto funcionando aqui: https://prime-flix-tau.vercel.app/
