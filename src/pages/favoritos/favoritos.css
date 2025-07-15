@@ -1,0 +1,41 @@
+.container{
+    width: 100%;
+    max-width:800px;
+    margin: 14px auto;
+    display:flex;
+    flex-direction:column;
+    padding: 0px 14px;
+}
+
+.ellipsis {
+  white-space: nowrap;        /* Não quebra de linha */
+  overflow: hidden;           /* Esconde o que passar do limite */
+  text-overflow: ellipsis;    /* Adiciona os "..." */
+  width:300px
+}
+
+.item{
+    display: flex;
+    align-items:center;
+    justify-content:  space-between;
+    margin: 8px 0px;
+
+}
+
+.div-info{
+    display:flex;
+    gap:8px
+}
+
+.div-info a{
+    text-decoration: none;
+}
+
+.div-info button{
+    cursor:pointer;
+}
+
+.text{
+    margin-top: 8px;
+    color: gray
+}
